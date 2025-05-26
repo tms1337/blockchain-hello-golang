@@ -1,6 +1,6 @@
 ## What's this
 
-Sample golang BTC blockchain mini-implemenentation with both local and ip-to-ip run options.
+Sample golang BTC alike blockchain mini-implemenentation with both local and ip-to-ip run options.
 
 ## Sample run
 
